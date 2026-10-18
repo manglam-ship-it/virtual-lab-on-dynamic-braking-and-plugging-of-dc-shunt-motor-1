@@ -1,20 +1,20 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Information Technology
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Virtual Lab
+<b> Experiment|     <b> VLab on dynamic braking and plugging in of dc shunt motors
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+
 
 <b>Name of Developer | <b> Fill the name of experiment owner here 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b> rajkiya engineering college, banda 
+<b> Email id|     <b>  2507340130033@recbanda.ac.in
+<b> Department |  Information Technology
 
 ### Contributors List
 
